@@ -23,7 +23,7 @@ Visualization: The clusters are visualized using scatter plots and bubble charts
 Execution
 To run the code, simply clone the repository and execute the main script.
 
-Play with this code by changing the number of clusters, k value.
+Play with this script by changing the number of clusters, k value.
 
 kmeans_final = KMeans(n_clusters=57, random_state=42)
 and KMeans parameters.
