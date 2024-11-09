@@ -1,4 +1,4 @@
-# K-Means_Clustering Case
+# K-Means_Clustering Case. How clustering works.
 
 This project implements the K-Means clustering algorithm to group companies into different clusters based on their industry. This is a code that support an article published in LinkedIn.
 The code is written in Python and uses libraries such as pandas, scikit-learn, matplotlib, and seaborn.
